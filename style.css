@@ -1,0 +1,48 @@
+.ubgthccskrf:hover{
+    background-color: aqua;
+
+}
+body{
+    background-color: #EACCC2;
+    margin: 0;
+}
+.around{
+    display: flex; justify-content: space-around;
+
+}
+.center{
+    display: flex; justify-content: center;
+
+}
+.text{
+    width: 400px
+}
+header{
+    display: flex;
+    background-color: bisque;
+    justify-content: space-around;
+    height: 50px;
+}
+p{
+    font-family: 'DynaPuff', cursive;
+}
+.zagalovok{
+    font-family: 'Montserrat', sans-serif;
+    width: 400px;
+}
+.color{
+    background-color: bisque;
+}
+.around_start{
+    display: flex; 
+    justify-content: space-around;
+    align-items: flex-start;
+}
+.diagonal-gradient {
+    background: linear-gradient(to bottom right, blue, pink);
+  }
+.start{
+    display: flex;
+    justify-content: flex-start;
+}
+
